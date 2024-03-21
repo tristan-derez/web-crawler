@@ -44,4 +44,5 @@ npm run start https://tristanderez.com
 ```
 
 result should look something like this, depending on the number of links found.
+
 ![image](https://github.com/tristan-derez/web-crawler/assets/92602528/3102b0b5-92bd-43ec-a81e-774ba2d73e84)
