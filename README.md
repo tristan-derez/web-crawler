@@ -37,7 +37,7 @@ npm install
 npm run build <url>
 ```
 
-### example:
+### Example:
 
 ```bash
 npm run start https://tristanderez.com
